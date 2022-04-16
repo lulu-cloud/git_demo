@@ -28,6 +28,6 @@ Hello Git!
 Hello Git!
 Hello Git! master test
 Hello Git!
-Hello Git!
+Hello Git! hot-fix test
 
 ashfosahdljwehroyo;iyhoashdfhq
